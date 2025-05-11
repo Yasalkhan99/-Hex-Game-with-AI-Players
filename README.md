@@ -109,9 +109,6 @@ The AI in this project uses the **Minimax Algorithm**, a recursive decision-maki
 ## 📊 GitHub Stats & Languages
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yasalkhan99&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasalkhan99&layout=compact&theme=tokyonight" alt="Top Languages" />

@@ -2,6 +2,10 @@
 main_hex.py: Launch and play a game of Hex using various AI or human strategies.
 """
 
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 import argparse
 import logging
 from datetime import datetime

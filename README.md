@@ -127,4 +127,4 @@ The AI in this project uses the **Minimax Algorithm**, a recursive decision-maki
 ```bash
 git clone https://github.com/Yasalkhan99/-Hex-Game-with-AI-Players.git
 cd -Hex-Game-with-AI-Players
-python hex_game.py
+python hex_ai.py
